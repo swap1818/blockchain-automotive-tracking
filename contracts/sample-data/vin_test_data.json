@@ -1,0 +1,50 @@
+[
+  {
+    "vin": "1FADP3F25GL278941",
+    "stationId": 5034,
+    "testName": "Knuckle to Hub Torque Test",
+    "value": "95.5 Nm",
+    "timestamp": 1698600000,
+    "status": "Pass"
+  },
+  {
+    "vin": "1FADP3F25GL278941",
+    "stationId": 5065,
+    "testName": "Brake Leak Test",
+    "value": "0.35 bar",
+    "timestamp": 1698600300,
+    "status": "Pass"
+  },
+  {
+    "vin": "1FADP3F25GL278941",
+    "stationId": 5080,
+    "testName": "Alignment",
+    "value": "Camber Out of Spec",
+    "timestamp": 1698600600,
+    "status": "Fail"
+  },
+  {
+    "vin": "1FADP3F25GL278942",
+    "stationId": 5034,
+    "testName": "Knuckle to Hub Torque Test",
+    "value": "88.0 Nm",
+    "timestamp": 1698600900,
+    "status": "Fail"
+  },
+  {
+    "vin": "1FADP3F25GL278942",
+    "stationId": 5065,
+    "testName": "Brake Leak Test",
+    "value": "0.22 bar",
+    "timestamp": 1698601200,
+    "status": "Pass"
+  },
+  {
+    "vin": "1FADP3F25GL278942",
+    "stationId": 5080,
+    "testName": "Alignment",
+    "value": "Toe In-Spec",
+    "timestamp": 1698601500,
+    "status": "Pass"
+  }
+]
